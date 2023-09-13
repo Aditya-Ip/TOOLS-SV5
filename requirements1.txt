@@ -1,0 +1,6 @@
+pyfiglet
+fontstyle
+colored
+requests
+termcolor
+termcolor 
